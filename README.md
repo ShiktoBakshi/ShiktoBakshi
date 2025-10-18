@@ -1,7 +1,4 @@
-<img  alt="1760632759268" src="https://github.com/user-attachments/assets/cd02b31e-2832-4393-b903-5130f49a8fbe" />(https://github.com/user-attachments/assets/cd02b31e-2832-4393-b903-5130f49a8fbe)
-
-
-<h1 align="center">Hi 👋, I'm B.M.Ahi Tanjil Ahosan</h1>
+<h1 align="center">Assalamu alaikum , I'm B.M.Ahi Tanjil Ahosan (Shikto)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **react**
