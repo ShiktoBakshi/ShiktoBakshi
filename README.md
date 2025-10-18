@@ -1,4 +1,4 @@
-<img width="300" height="200" alt="1760632759268" src="https://github.com/user-attachments/assets/cd02b31e-2832-4393-b903-5130f49a8fbe" />
+<img  alt="1760632759268" src="https://github.com/user-attachments/assets/cd02b31e-2832-4393-b903-5130f49a8fbe" />(https://github.com/user-attachments/assets/cd02b31e-2832-4393-b903-5130f49a8fbe)
 
 
 <h1 align="center">Hi 👋, I'm B.M.Ahi Tanjil Ahosan</h1>
