@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu alaikum , I'm B.M.Ahi Tanjil Ahosan (Shikto)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,**
 
